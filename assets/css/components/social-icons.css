@@ -1,0 +1,14 @@
+.social-icon {
+  color: white;
+  width: 32px;
+  height: 32px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.social-icon__fb {
+  background-color: var(--facebook-blue);
+}
+.social-icon__tw {
+  background-color: var(--twitter-blue);
+}

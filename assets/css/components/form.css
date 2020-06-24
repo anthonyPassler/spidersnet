@@ -1,0 +1,18 @@
+.form {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  background-color: var(--spidersnet-red);
+  padding: 18px;
+}
+.form h3 {
+  color: white;
+  font-size: 18px;
+  font-weight: bold;
+}
+.price {
+  width: 50%;
+}
+.form select {
+  font-size: 14px;
+}

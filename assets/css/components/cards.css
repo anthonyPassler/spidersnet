@@ -1,0 +1,14 @@
+.card {
+  border: none !important;
+}
+.card p {
+  color: white;
+  font-weight: bold;
+  text-align: center;
+}
+.card img {
+  object-fit: center;
+}
+.card-section {
+  background-color: var(--spidersnet-red);
+}
